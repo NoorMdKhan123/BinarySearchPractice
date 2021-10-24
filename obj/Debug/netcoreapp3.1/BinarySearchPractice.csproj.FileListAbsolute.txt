@@ -1,0 +1,4 @@
+C:\Users\md048\source\repos\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.AssemblyInfo.cs
+C:\Users\md048\source\repos\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.csproj.CoreCompileInputs.cache
